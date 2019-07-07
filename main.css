@@ -93,16 +93,14 @@ body {
 	transform: none;
 }
 .btn.logo-icon {
-	font-size: 1.1em;
-	border-color: #818f46;
+
 }
 .btn.logo-icon:before {
-	transform: rotate(3deg) translateY(-0.1em);
-	width: 1.4em;
+	
 }
 .btn.logo-icon::after,
 .btn.logo-icon:focus {
-	background-color: #deebc3;
+	
 }
 
 a {
@@ -131,8 +129,7 @@ p:first-of-type {
 	background-color: rgba(210, 232, 105, 0.92);
 }
 .container:nth-child(odd) {
-	background-color: rgba(47, 47, 47, 0.96);
-	color: #f1f1f1;
+
 }
 
 .flex {
